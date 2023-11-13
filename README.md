@@ -1,4 +1,4 @@
-# Screen_recoder
+# Screen_recorder
 A simple Javascript program to record screen and downloading the video output 
 
 ## Running Tests
